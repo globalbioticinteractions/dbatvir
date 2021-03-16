@@ -1,5 +1,5 @@
 {
   "format": "dbatvir",
   "citation": "Chen L, Liu B, Yang J, Jin Q, 2014. DBatVir: the database of bat-associated viruses. Database (Oxford). 2014:bau021. doi:10.1093/database/bau021",
-  "batchSize" : "100"
+  "batchSize" : 100
 }
